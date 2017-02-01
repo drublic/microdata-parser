@@ -1,0 +1,18 @@
+{
+  "name": "microdata-parser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Hans Christian Reinl",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^3.13.0",
+    "htmlparser2": "^3.9.2",
+    "http-auth": "^3.1.1",
+    "microdata-node": "^0.2.1",
+    "request": "^2.79.0"
+  },
+  "scripts": {
+    "server": "node index.js",
+    "start": "open http://localhost:8080 && nodemon index.js"
+  }
+}
