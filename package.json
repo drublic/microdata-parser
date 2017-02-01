@@ -1,7 +1,7 @@
 {
   "name": "microdata-parser",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "'lib/Parser.js'",
   "author": "Hans Christian Reinl",
   "license": "MIT",
   "dependencies": {
